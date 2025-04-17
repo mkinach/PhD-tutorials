@@ -9,4 +9,4 @@ g22_    :=    1   :
 g33_    :=    1   :
 g44_    :=    1   :
 g11_    :=    V(t)^2*f(sqrt(x^2+y^2+z^2))^2-1  :
-Info_:=`The Alcubierre metric in cartesian coordinates`:
+Info_:=`The Alcubierre metric in Cartesian coordinates`:
